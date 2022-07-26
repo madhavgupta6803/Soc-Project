@@ -16,3 +16,5 @@ The aim of ths Project was to create new piece of music using Piano Notes
 * code.ipynb : In this file, we will build, train and test our model.
 * MOD/ : This directory contains optimizer, metrics, and weights of our trained model.
 * AI_composed_music.mid : This is a music file of predicted notes.
+* Python basics and Libraries Practice Files/ : Contains various files related to python libraries and basics made while learning and practice.
+* Tensor_Flow_basics_and_Regression.ipynb : Contains code related to Tensor Flow made while learning and practice.
