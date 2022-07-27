@@ -7,7 +7,7 @@ Details regarding timeline and progress in the project
 # Musify: Music-Composition using Artificial Intelligence
 The aim of ths Project was to create new piece of music using Piano Notes
 # About the Project
-* Platform : Google Colab / Jupyter Notebook
+* Platform : Google Colab / Jupyter Notebook / Visual Studio Code
 * Language : Python 3.8
 * Libraries Used : Tensorflow, Music21, Keras, NumPy, Sklearn, tqdm
 * Dataset : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
