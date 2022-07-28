@@ -19,8 +19,8 @@ The aim of ths Project was to create new piece of music using Piano Notes
 * Python basics and Libraries Practice Files/ : Contains various files related to python libraries and basics made while learning and practice.
 * Tensor_Flow_basics_and_Regression.ipynb : Contains code related to Tensor Flow made while learning and practice.
 * Musify Presentation.pptx : Final Presentation of the Project.
-* Final Document SOC-Musify
-* Final Video SOC-Musify
+* Final Document SOC-Musify.docx
+* Final Video SOC-Musify.webm
 # Follow the steps and compose music using AI
 * STEP 1 : Download the files from the repository by clicking on Code button
 * STEP 2 : Install Libraries using pip command (In Anaconda Prompt)
