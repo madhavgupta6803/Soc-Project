@@ -18,6 +18,8 @@ The aim of ths Project was to create new piece of music using Piano Notes
 * AI_composed_music.mid : This is a music file of predicted notes.
 * Python basics and Libraries Practice Files/ : Contains various files related to python libraries and basics made while learning and practice.
 * Tensor_Flow_basics_and_Regression.ipynb : Contains code related to Tensor Flow made while learning and practice.
+* Musify Presentation.pptx : Final Presentation of the Project.
+* Final Document SOC-Musify :
 # Follow the steps and compose music using AI
 * STEP 1 : Download the files from the repository by clicking on Code button
 * STEP 2 : Install Libraries using pip command (In Anaconda Prompt)
@@ -26,4 +28,4 @@ The aim of ths Project was to create new piece of music using Piano Notes
 * STEP 5 : Wait for the model training as it takes about 7-8 hours
 * STEP 6 : Run the last cell and a file named as AI_composed_music.mid will be saved
 * STEP 7 : Play the file AI_composed_music.mid
-You have composed your own music by using AI. Some of the parameters can be tweaked in the code for different results.
+* You have composed your own music by using AI. Some of the parameters can be tweaked in the code for different results.
