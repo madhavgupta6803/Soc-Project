@@ -29,4 +29,4 @@ The aim of ths Project was to create new piece of music using Piano Notes
 * STEP 5 : Wait for the model training as it takes about 7-8 hours
 * STEP 6 : Run the last cell and a file named as AI_composed_music.mid will be saved
 * STEP 7 : Play the file AI_composed_music.mid
-* You have composed your own music by using AI. Some of the parameters can be tweaked in the code for different results.
+* STEP 8 : You have composed your own music by using AI. Some of the parameters can be tweaked in the code for different results.
